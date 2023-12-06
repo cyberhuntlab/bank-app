@@ -110,5 +110,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Miscellaneous file
-customer-sample-data-generator.py
+# Miscellaneous file and folders
+appFrontEnd/
+appTest/
